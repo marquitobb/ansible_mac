@@ -69,18 +69,9 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - chromedriver
   - docker
-  - dropbox
-  - firefox
   - google-chrome
-  - handbrake
-  - licecap
-  - sequel-ace
   - slack
-  - sublime-text
-  - transmit
-  - vagrant
 
 mas_installed_apps: []
 mas_email: ""
@@ -110,7 +101,7 @@ pip_packages: []
 
 # Set to 'true' to configure Sublime Text.
 configure_sublime: false
-sublime_base_path: '~/Library/Application Support/Sublime Text'
+# sublime_base_path: '~/Library/Application Support/Sublime Text'
 sublime_config_path: "Packages/User"
 sublime_package_control:
   - "DocBlockr"

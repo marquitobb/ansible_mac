@@ -117,9 +117,6 @@ Packages (installed with Homebrew):
 
   - autoconf
   - bash-completion
-  - doxygen
-  - gettext
-  - gifsicle
   - git
   - go
   - gpg
@@ -132,7 +129,6 @@ Packages (installed with Homebrew):
   - nmap
   - node
   - nvm
-  - php
   - ssh-copy-id
   - cowsay
   - readline
